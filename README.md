@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Inioluwa
-- 👀 I’m interested in Front-end web development 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on beginner projects
+- 👀 I’m interested in Front-end web development and technical writing
+- 🌱 I’m currently learning Cybersecurity
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me on twitter @ini_adeyemo 
