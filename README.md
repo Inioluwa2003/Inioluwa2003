@@ -1,12 +1,15 @@
-### Hi, I'm Inioluwa 👋
+### Hi, I'm Inioluwa 
 
 I'm in cybersecurity, with experience in penetration testing and digital forensics — currently spending 90 days building toward DevSecOps, and documenting the entire process in public.
 
-**📖 Follow the build log:** [Cybersecurity to DevSecOps — 90-Day Build Log](https://inioluwa2003.hashnode.dev/)
+### Portfolio
+[Cybersecurity Portfolio](https://app.notion.com/p/Cybersecurity-Portfolio-3ac9c2e39a108039af82c2a7e77df0bd?source=copy_link)
+
+**Follow the build log:** [Cybersecurity to DevSecOps — 90-Day Build Log](https://inioluwa2003.hashnode.dev/)
 
 ---
 
-### 🔐 What I'm Learning
+###  What I'm Learning
 
 - **Linux & Bash**
 - **Applied Cryptography**
@@ -15,19 +18,19 @@ I'm in cybersecurity, with experience in penetration testing and digital forensi
 - **Cloud Security**
 - **AI Security**
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 `Linux` `Git` `GitHub` `Wireshark` `Burp Suite` `Autopsy` `FTK Imager` `Kali Linux`
 
-### 📚 Current Focus
+### Current Focus
 
 I'm currently working on strengthening my Linux and DevSecOps skills through hands-on practice, including OverTheWire Bandit, cybersecurity labs, and practical security projects.
 
-### 🎯 Goal
+### Goal
 
 To build practical experience in cybersecurity and DevSecOps while contributing to open-source projects and learning from the wider security community.
 
-### 📫 Connect
+### Connect
 
 - [Hashnode](https://inioluwa2003.hashnode.dev/)
 - [LinkedIn](https://www.linkedin.com/in/adeyemo-inioluwa/)
